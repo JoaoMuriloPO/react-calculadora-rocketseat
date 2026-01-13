@@ -1,3 +1,7 @@
+
+<img width="1683" height="732" alt="image" src="https://github.com/user-attachments/assets/a7a29911-e437-413b-afef-3bca3dcce6cb" />
+
+---
 # 🧮 Calculadora em ReactJS
 
 Calculadora desenvolvida em **ReactJS** durante o curso da **Rocketseat**, com foco no aprendizado dos **fundamentos da biblioteca**.
